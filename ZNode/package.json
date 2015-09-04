@@ -1,0 +1,10 @@
+{
+  "name": "ZNode",
+  "version": "0.0.0",
+  "description": "ZNode",
+  "main": "server.js",
+  "author": {
+    "name": "ashishth",
+    "email": ""
+  }
+}
